@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/springmvc-01-start/target/
+/springmvc-02-controller/target/
+/springmvc-03-json/target/
